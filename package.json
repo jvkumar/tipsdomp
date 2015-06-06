@@ -1,0 +1,26 @@
+{
+  "name": "tipsdom",
+  "version": "1.0.0",
+  "description": "tipsdom REST APIs",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "~1.12.4",
+    "express": "^4.12.4",
+    "lodash": "^3.9.3",
+    "mongoose": "^4.0.4",
+    "redis": "~0.12.1"
+  },
+  "scripts": {
+    "test": "grunt nodeunit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scontest/tipsdom.git"
+  },
+  "author": "Jai Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scontest/tipsdom/issues"
+  },
+  "homepage": "https://github.com/scontest/tipsdom#readme"
+}
